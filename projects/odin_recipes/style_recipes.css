@@ -1,0 +1,28 @@
+:root {
+	--cor1: #fffdc0;
+	--cor2: #b9d7a1;
+	--cor3: #fead26;
+	--cor4: #ca221f;
+	--cor5: #590f0c;
+}
+
+body {
+	background-color: var(--cor1);
+}
+
+h1 {
+	text-align: center;
+	background-color: var(--cor4);
+	color: var(--cor1);
+	border: 1px solid var(--cor5);
+	border-radius: 5px;
+}
+
+a {
+	text-decoration: none;
+	color: darkslateblue;
+}
+
+a:hover {
+	text-decoration: underline;
+}
