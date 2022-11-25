@@ -1,0 +1,20 @@
+body {
+	background-color: whitesmoke;
+}
+
+h1 {
+	text-align: center;
+	background-color: rgba(190, 125, 99, 0.651);
+	color: black;
+	border: 1px solid black;
+	border-radius: 5px;
+}
+
+a {
+	text-decoration: none;
+	color: darkslateblue;
+}
+
+a:hover {
+	text-decoration: underline;
+}
