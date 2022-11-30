@@ -4,15 +4,19 @@ body {
 
 h1 {
 	text-align: center;
-	background-color: rgba(190, 125, 99, 0.651);
+	background-color: pink;
 	color: black;
 	border: 1px solid black;
 	border-radius: 5px;
 }
 
-a {
+ul {
+	border-radius: 10px;
+	
+}
+
+a, li {
 	text-decoration: none;
-	color: darkslateblue;
 }
 
 a:hover {
